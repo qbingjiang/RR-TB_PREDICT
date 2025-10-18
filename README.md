@@ -1,4 +1,4 @@
-# Tri Model: Deep Learning for Rifampicin-Resistant Tuberculosis (RR-TB) Detection  
+# Tri Model: Deep Learning for Rifampicin-Resistant Tuberculosis (RR-TB) prediction  
 
 ## Overview  
 Rifampicin-resistant tuberculosis (RR-TB) is a critical barrier to global TB control, undermining progress toward the WHO End TB Strategy. Early and accurate detection of RR-TB is essential to guide timely treatment.  
